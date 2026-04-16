@@ -1,3 +1,5 @@
 Brooke.Txt 
 
 This is a random txt file for the unity tutorial Mr. Rogers did o3o 
+
+Thanks Sam for teaching us GitHub back at BPCC! :)
